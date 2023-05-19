@@ -45,7 +45,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jhonataOvirowa}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JhonataOvirowa}/count.svg" /></p> 
 <br>
 
   ![Snake animation](https://github.com/jhonataOvirowa/JhonataOvirowa/blob/output/github-contribution-grid-snake.svg)
