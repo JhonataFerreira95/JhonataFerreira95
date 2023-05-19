@@ -48,7 +48,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JhonataOvirowa}/count.svg" /></p> 
 <br>
 
-  ![Snake animation](https://github.com/JhonataOvirowa/JhonataOvirowa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jhonataOvirowa/jhonataOvirowa/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
