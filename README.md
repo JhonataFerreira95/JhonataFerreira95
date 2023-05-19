@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JhonataOvirowa&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jhonataOvirowa&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
@@ -45,17 +45,13 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JhonataOvirowa}/count.svg" /></p> 
-<br></div>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jhonataOvirowa}/count.svg" /></p> 
+<br>
 
-
-<div align="center">
-
-  ![Snake animation](https://github.com/jhonataOvirowa/jhonataOvirowa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jhonataOvirowa/JhonataOvirowa/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
