@@ -1,13 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jhonata+Ferreira;I'm+22+years+old;I+am+from+Recife,+PE;I+study+System+For+Internet+at+IFRN;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffb6c1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jhonata+Ferreira;I'm+22+years+old;I+am+from+Recife,+PE;I+study+System+For+Internet+at+IFRN;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhonataOvirowa&show_icons=true&count_private=true&hide_border=true&title_color=radical00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=282a36" alt="jhonataOvirowa github stats" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonataOvirowa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=282a36" />
+<div align="center">
+  <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhonataOvirowa&theme=omni&show_icons=true" alt="Anurag's GitHub stats" />
+  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonataOvirowa&layout=compact&theme=omni" alt="Top Langs" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonataOvirowa&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![JhonataOvirowa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonataOvirowa&bg_color=282a36&color=ffb6c1&line=ffb6c1&point=ffb6c1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jhonataOvirowa&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -59,13 +62,23 @@
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 </div>
 
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JhonataOvirowa}/count.svg" /></p> 
-<br>
-  
+<br>  
+</div>
+
+
+<div aling="center">
+
+![Brazilian Portuguese](https://img.shields.io/badge/-Brazilian_Portuguese:_Native-009638?style=flat&logoColor=white) &nbsp;
+![English](https://img.shields.io/badge/-English:_Intermediate_(B1)-39386B?style=flat&logoColor=white) &nbsp;
+![French](https://img.shields.io/badge/-French::_Basic_(A2)-6a75a1?style=flat&logoColor=white)
 </div>
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer"/>
+
+
