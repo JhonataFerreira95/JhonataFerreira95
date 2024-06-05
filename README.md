@@ -74,7 +74,7 @@
 
 ![Brazilian Portuguese](https://img.shields.io/badge/-Brazilian_Portuguese:_Native-009638?style=flat&logoColor=white) &nbsp;
 ![English](https://img.shields.io/badge/-English:_Intermediate_(B1)-39386B?style=flat&logoColor=white) &nbsp;
-![French](https://img.shields.io/badge/-French::_Basic_(A2)-6a75a1?style=flat&logoColor=white)
+![French](https://img.shields.io/badge/-French:_Basic_(A2)-6a75a1?style=flat&logoColor=white)
 </div>
 
 
