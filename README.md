@@ -54,7 +54,6 @@
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code>
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
 </div>
-</div>
 
 ### Studying in this moment:
 <div align="center">
@@ -78,7 +77,7 @@
 
 ![Brazilian Portuguese](https://img.shields.io/badge/-Brazilian_Portuguese:_Native-009638?style=flat&logoColor=white) &nbsp;
 ![English](https://img.shields.io/badge/-English:_Intermediate_(B1)-39386B?style=flat&logoColor=white) &nbsp;
-![French](https://img.shields.io/badge/-French:_Basic_(A2)-6a75a1?style=flat&logoColor=white)
+![French](https://img.shields.io/badge/-French::_Basic_(A2)-6a75a1?style=flat&logoColor=white)
 </div>
 
 
