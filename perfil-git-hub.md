@@ -1,15 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=797979&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffb6c1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jhonata+Ferreira;I'm+22+years+old;I+am+from+Recife,+PE;I+study+System+For+Internet+at+IFRN;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f4cd7c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jhonata+Ferreira;I'm+22+years+old;I+am+from+Recife,+PE;I+study+System+For+Internet+at+IFRN;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhonataOvirowa&theme=omni&show_icons=true" alt="Anurag's GitHub stats" />
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonataOvirowa&layout=compact&theme=omni" alt="Top Langs" />
+  <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhonataOvirowa&theme=ayu-mirage&show_icons=true" alt="Anurag's GitHub stats" />
+  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonataOvirowa&layout=compact&theme=ayu-mirage" alt="Top Langs" />
 </div>
 
 
-[![JhonataOvirowa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonataOvirowa&bg_color=282a36&color=ffb6c1&line=ffb6c1&point=ffb6c1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![JhonataOvirowa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonataOvirowa&bg_color=1f2430&color=ffffff&line=f4cd7c&point=f28779&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
@@ -51,6 +50,8 @@
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code>
+	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
 </div>
 
 ### Studying in this moment:
@@ -79,7 +80,6 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer"/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=footer"/>
 
 
