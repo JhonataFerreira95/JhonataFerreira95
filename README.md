@@ -3,17 +3,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f4cd7c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jhonata+Ferreira;I'm+22+years+old;I+am+from+Recife,+PE;I+study+System+For+Internet+at+IFRN;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<div align="center" style="margin:-10px">
+<div align="center" style="margin: -20px; margin-bottom: 40px;">
   <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhonataOvirowa&theme=ayu-mirage&show_icons=true" alt="Jhonata GitHub stats" />
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonataOvirowa&layout=compact&theme=ayu-mirage" alt="Top Langs" />
 </div>
 
+<br>
+
 <div  align="center" style="margin: 20px" style="margin-bottom:20px">
 <img width=75% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JhonataOvirowa&theme=ayu-mirage&mode=weekly"/>
- </div>
+</div>
 
+<br>
 
 [![JhonataOvirowa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonataOvirowa&bg_color=1f2430&color=ffffff&line=f4cd7c&point=f28779&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
 <p align="center">
