@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f4cd7c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jhonata+Ferreira;I'm+22+years+old;I+am+from+Recife,+PE;I+study+System+For+Internet+at+IFRN;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<div align="center" style="margin:-25px">
+<div align="center" style="margin:-10px">
   <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhonataOvirowa&theme=ayu-mirage&show_icons=true" alt="Jhonata GitHub stats" />
   <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonataOvirowa&layout=compact&theme=ayu-mirage" alt="Top Langs" />
 </div>
 
-<div  align="center" style="margin-bottom:20px">
+<div  align="center" style="margin: 25"style="margin-bottom:20px">
 <img width=75% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JhonataOvirowa&theme=ayu-mirage&mode=weekly"/>
  </div>
 
@@ -82,6 +82,13 @@
 ![English](https://img.shields.io/badge/-English:_Intermediate_(B1)-39386B?style=flat&logoColor=white) &nbsp;
 ![French](https://img.shields.io/badge/-French::_Basic_(A2)-6a75a1?style=flat&logoColor=white)
 </div>
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonataOvirowa/JhonataOvirowa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: ayu-mirage)" srcset="https://raw.githubusercontent.com/JhonataOvirowa/JhonataOvirowa/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JhonataOvirowa/JhonataOvirowa/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
