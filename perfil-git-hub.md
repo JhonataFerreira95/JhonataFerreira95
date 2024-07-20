@@ -5,10 +5,10 @@
 
 <div align="center" style="margin:-25px">
   <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhonataOvirowa&theme=ayu-mirage&show_icons=true" alt="Jhonata GitHub stats" />
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonataOvirowa&layout=compact&theme=ayu-mirage" alt="Top Langs" />
+  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonataOvirowa&layout=compact&theme=ayu-mirage" alt="Top Langs" />
 </div>
 
-<div  align="center" style="margin-bottom:10px">
+<div  align="center" style="margin-bottom:20px">
 <img width=75% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JhonataOvirowa&theme=ayu-mirage&mode=weekly"/>
  </div>
 
