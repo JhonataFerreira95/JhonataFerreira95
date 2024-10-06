@@ -4,19 +4,19 @@
 
 
 <div align="center" style="margin: -20px; margin-bottom: 40px;">
-  <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhonataOvirowa&theme=ayu-mirage&show_icons=true" alt="Jhonata GitHub stats" />
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonataOvirowa&layout=compact&theme=ayu-mirage" alt="Top Langs" />
+  <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JhonataFerreira95&theme=ayu-mirage&show_icons=true" alt="Jhonata GitHub stats" />
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataFerreira95&layout=compact&theme=ayu-mirage" alt="Top Langs" />
 </div>
 
 <br>
 
 <div  align="center" style="margin: 20px" style="margin-bottom:20px">
-<img width=75% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JhonataOvirowa&theme=ayu-mirage&mode=weekly"/>
+<img width=75% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JhonataFerreira95&theme=ayu-mirage&mode=weekly"/>
 </div>
 
 <br>
 
-[![JhonataOvirowa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonataOvirowa&bg_color=1f2430&color=ffffff&line=f4cd7c&point=f28779&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![JhonataOvirowa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonataFerreira95&bg_color=1f2430&color=ffffff&line=f4cd7c&point=f28779&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JhonataOvirowa}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JhonataFerreira95}/count.svg" /></p> 
 <br>  
 </div>
 
@@ -90,9 +90,9 @@
 
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonataOvirowa/JhonataOvirowa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonataOvirowa/JhonataOvirowa/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JhonataOvirowa/JhonataOvirowa/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonataFerreira95/JhonataFerreira95/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonataFerreira95/JhonataFerreira95/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JhonataFerreira95/JhonataFerreira95/output/github-contribution-grid-snake.svg">
 </picture>
 
 
