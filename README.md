@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jhonataOvirowa&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jhonataFerreira95&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 <div align="center">  
 <a href="https://www.linkedin.com/in/jhonata-ferreira-9b22261a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -32,8 +32,7 @@
 
 ### Main skills:
 <div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby"/></code>
-</div>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby"/></code></div>
  
 ### Tools:
 <div align="center">
