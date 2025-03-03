@@ -16,7 +16,7 @@
 
 <br>
 
-[![JhonataOvirowa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonataFerreira95&bg_color=1f2430&color=ffffff&line=f4cd7c&point=f28779&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![JhonataFerreira95 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonataFerreira95&bg_color=1f2430&color=ffffff&line=f4cd7c&point=f28779&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -80,9 +80,6 @@
 ![English](https://img.shields.io/badge/-English:_Intermediate_(B1)-39386B?style=flat&logoColor=white) &nbsp;
 ![French](https://img.shields.io/badge/-French:_Basic_(A2)-6a75a1?style=flat&logoColor=white)
 </div>
-
-## 📊 GitHub Stats  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonataFerreira95_USUARIO&theme=github-dark)  
 
 
 <picture align="center">
