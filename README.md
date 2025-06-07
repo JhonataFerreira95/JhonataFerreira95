@@ -17,9 +17,6 @@
 
 [![JhonataFerreira95 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonataFerreira95&bg_color=1f2430&color=ffffff&line=f4cd7c&point=f28779&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jhonataFerreira95&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
