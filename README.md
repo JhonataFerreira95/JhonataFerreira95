@@ -74,7 +74,6 @@
 <br>  
 </div>
 
-
 <div aling="center">
 
 ![Brazilian Portuguese](https://img.shields.io/badge/-Brazilian_Portuguese:_Native-009638?style=flat&logoColor=white) &nbsp;
