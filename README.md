@@ -33,8 +33,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192603750-4142ae75-10fa-4b61-a773-8b2052834357.png" alt="RubyGems" title="RubyGems"/></code>
 </div>
  
-### Tools:
-
+### Tools
 <div align="center">
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
