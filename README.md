@@ -73,11 +73,14 @@
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code>
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JhonataFerreira95}/count.svg" /></p> 
+<br>
+
+<div align="center"> 
+<img src="https://komarev.com/ghpvc/?username=JhonataFerreira95&label=Profile%20Views&color=ffb454&style=for-the-badge" />
 <br>  
 </div>
+
+<br>
 
 <div aling="center">
 
