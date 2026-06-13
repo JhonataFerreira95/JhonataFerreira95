@@ -30,7 +30,6 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192603750-4142ae75-10fa-4b61-a773-8b2052834357.png" alt="RubyGems" title="RubyGems"/></code>
 </div>
- 
 ### Tools:
 <div align="center">
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
