@@ -88,6 +88,7 @@
 ![French](https://img.shields.io/badge/-French:_Basic_(A2)-6a75a1?style=flat&logoColor=white)
 </div>
 
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonataFerreira95/JhonataFerreira95/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonataFerreira95/JhonataFerreira95/output/github-contribution-grid-snake-dark.svg">
