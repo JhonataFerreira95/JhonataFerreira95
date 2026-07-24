@@ -51,7 +51,6 @@
 </div>
 	
 </div>
- 
 ### Other Knowledge:
 
 <div align="center">
