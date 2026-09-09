@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=797979&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f4cd7c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jhonata+Ferreira;I'm+20+years+old;I+am+from+Recife,+PE;I+study+System+For+Internet+at+IFRN;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 <div align="center" style="margin: -20px; margin-bottom: 40px;">
   <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JhonataFerreira95&theme=ayu-mirage&show_icons=true" alt="Jhonata GitHub stats" />
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataFerreira95&layout=compact&theme=ayu-mirage&langs_count=8" alt="Top Langs" />
