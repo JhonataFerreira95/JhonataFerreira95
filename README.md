@@ -8,6 +8,7 @@
 </div>
 
 <br>
+
 <div  align="center" style="margin: 20px" style="margin-bottom:20px">
 <img width=75% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JhonataFerreira95&theme=ayu-mirage&mode=weekly"/>
 </div>
