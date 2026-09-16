@@ -6,7 +6,6 @@
   <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JhonataFerreira95&theme=ayu-mirage&show_icons=true" alt="Jhonata GitHub stats" />
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataFerreira95&layout=compact&theme=ayu-mirage&langs_count=8" alt="Top Langs" />
 </div>
-
 <br>
 
 <div  align="center" style="margin: 20px" style="margin-bottom:20px">
