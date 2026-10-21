@@ -12,6 +12,7 @@
 <div  align="center" style="margin: 20px" style="margin-bottom:20px">
 <img width=75% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JhonataFerreira95&theme=ayu-mirage&mode=weekly"/>
 </div>
+
 <br>
 
 [![JhonataFerreira95 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonataFerreira95&bg_color=1f2430&color=ffffff&line=f4cd7c&point=f28779&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
